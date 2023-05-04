@@ -21,9 +21,11 @@ Here are some ideas to get you started:
 
 I'm a Full Stack Developer with 1 year of hands-on experience designing, developing and implementing applications and solutions using a range of technologies and programming languages.
   
-Currently, I'm also studying ICT at Kungliga Tekniska Högskolan in Stockholm and I am expected to graduate in 2024.
+Currently, I'm also studying ICT at Kungliga Tekniska Högskolan in Stockholm and I am expected to graduate in 2024. As a part of a full-time project course I am working on developing a card game <a href="https://github.com/adamcq/DucksNHunters" /a>
 <br />
 I'm currently based in Stockholm, Sweden.
+  
+
 
 <br />
 I love learning new techs and using new tools. My favorite framework to work in is React!
