@@ -25,7 +25,7 @@ I'm a Full Stack Developer with 1 year of hands-on experience designing, develop
   
   
 <br />
-I love learning new techs and using new tools. I love using JavaScript and my favorite framework to work in is React!
+I love learning new techs and using new tools. My favorite coding language is JavaScript and my favorite framework to work in is React!
 <br />
 <br />
 
