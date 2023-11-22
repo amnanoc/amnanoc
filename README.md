@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <div align="center">
 <h2>Welcome to my Github profile!</h2>
 
-I'm a Full Stack Developer with 1 year of hands-on experience designing, developing and implementing applications and solutions using a range of technologies and programming languages.
+I'm a Full Stack Developer with hands-on experience designing, developing and implementing applications and solutions using a range of technologies and programming languages.
     
 <br />
   
