@@ -35,31 +35,6 @@ I love learning new techs and using new tools. My favorite coding language is Ja
 
 <div align="center">
 
-## Tech Stack
-
-<br />
-<a margin="10" href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img margin="10px" height="40" alt="html"></a>
-<a margin="10" href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img margin="10px" height="40" alt="css"></a>
-<a margin="10" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img margin="10px" height="40" alt="javascript"></a>
-<a margin="10" href="https://getbootstrap.com" target="_blank"><img margin="10px" height="40" alt="bootstrap"></a>
-<a margin="10" href="https://sass-lang.com" target="_blank"><img margin="10px" height="40" alt="sass"></a>
-<br />
-<br />
-<a margin="10" href="https://mui.com" target="_blank"><img margin="10px" height="40" alt="material ui"></a>
-<a margin="10" href="https://figma.com" target="_blank"><img margin="10px" height="40" alt="figma"></a>
-<a margin="10" href="https://reactjs.org" target="_blank"><img margin="10px" height="40" alt="react"></a>
-<a margin="10" href="https://nextjs.org" target="_blank"><img margin="10px" height="40" alt="next js"></a>
-<br />
-<br />
-<a margin="10" href="https://nodejs.org" target="_blank"><img margin="10px" height="40" alt="nodejs"></a>
-<a margin="10" href="https://firebase.google.com" target="_blank"><img margin="10px" height="40" alt="firebase"></a>
-<a margin="10" href="https://mongodb.com" target="_blank"><img margin="10px" height="40" alt="mongodb"></a>
-<a margin="10" href="https://devdocs.io/c/" target="_blank"><img margin="10px" height="40" alt="c programming"></a>
-<a margin="10" href="https://devdocs.io/java/" target="_blank"><img margin="10px" height="40" alt="java programming"></a>
-<a margin="10" href="https://expressjs.com" target="_blank"><img margin="10px" height="40" alt="express"></a>
-</div>
-<br />
-<br />
 
 <div align="center">
 <br />
