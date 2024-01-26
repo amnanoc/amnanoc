@@ -19,10 +19,10 @@ Here are some ideas to get you started:
 <div align="center">
 <h2>Welcome to my Github profile!</h2>
 
-I'm a Full Stack Developer with hands-on experience designing, developing and implementing applications and solutions using a range of technologies and programming languages. 
+I'm a Full Stack Developer with hands-on experience designing, developing and implementing solutions and applications using a range of technologies and programming languages. 
 <br />
 <br />
-I love learning new technologies and using new tools. My favorite coding language is JavaScript and my favorite framework to work in is React!
+I love learning new things. My favorite coding language is JavaScript and my favorite framework to work in is React!
 <br />
 <br />
 
