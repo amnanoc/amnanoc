@@ -26,8 +26,6 @@ I love learning new things. My favorite coding language is JavaScript and my fav
 <br />
 <br />
 
-**Happy Coding!** 😊
-
 </div>
 
 <div align="center">
