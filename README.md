@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <div align="center">
 <h2>Welcome to my Github profile!</h2>
 
-I'm a developer with professional experience designing, developing and implementing solutions and applications using a range of technologies and programming languages. 
+I'm a Master's student at KTH with professional experience designing, developing and implementing solutions and applications using a range of technologies and programming languages. 
 <br />
 <br />
 
